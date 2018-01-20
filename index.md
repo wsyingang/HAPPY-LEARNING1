@@ -1,37 +1,90 @@
-## Welcome to This Pages
-
-You can use the [editor on GitHub](https://github.com/wsyingang/HAPPY-LEARNING1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wsyingang/HAPPY-LEARNING1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>UNIT 1</title>
+		<link rel="stylesheet" href="new_file.css" type="text/css">
+	</head>
+	<body>
+		<div style="background-image: url(img/timg.jpg);height: 1920px;
+			width: 1080px;">
+		<h1 style="color: red;">this is Unit 1</h1><hr />
+		<a href="#bottle" name="top">BOTTLE</a>
+		<ol>
+			<li>addmission:the right to enter or
+				to join an institution.
+				准许加入；加入权；选入权。</li>
+			<li>accessible:可到达的，可进入的，可见到的。</li>
+			<li>attend:出席。</li>
+			<li>blend:和谐结合，融合。</li>
+			<li>blessed:有福的。</li>
+			<li>campus:大学校园。</li>
+			<li>catwalk:时装表演台，T型舞台。</li>
+			<li>collabortion:合作，协作。</li>
+			<li>community:社区。</li>
+			<li>competitively:竞争的。</li>
+			<li>comprehensive:全部的，无所不包括的。</li>
+			<li>concentration:专心，专注。</li>
+			<li>costume:服装；装饰。</li>
+			<li>declare:公告；宣布。</li>
+			<li>diversity:多样性，多样化。</li>
+			<li>enroll:注册 ，入学。</li>
+			<li>explore:探究，探索。</li>
+			<li>fest:节目，联欢，聚会。</li>
+			<li>frequent:常去，时常出入于。</li>
+			<li>freshman:新生，刚刚入学的大学生</li>
+			<li>fright：惊吓，恐怖，使人惊恐的经历。</li>
+			<li>inbox:收件箱。</li>
+			<li>incredible:极好的，极大的。</li>
+			<li>inspiration:鼓舞人心的。</li>
+			<li>institution:(规模大的)机构</li>
+			<li>keen:渴望，热衷于。</li>
+			<li>leadership:领导，领导地位。</li>
+			<li>munchies:快餐，小点心。</li>
+			<li>newfound:新发现的。</li>
+			<li>option:可选择的，选择权。</li>
+			<li>overloaded:超负荷的</li>
+			<li>overlook:眺望</li>
+			<li>overwhelming:巨大的，压倒性的。</li>
+			<li>passion:激情，热情。</li>
+			<li>phase:阶段。</li>
+			<li>pizza:披萨饼。</li>
+			<li>pre-med:医学预科生。</li>
+			<li>prestigious:有威望的，声誉高的。</li>
+			<li>primal:原始的，最初的。</li>
+			<li>proctor：学监。</li>
+			<li>pure:纯的，纯粹的。</li>
+			<li>renew:重新开始，终止后继续。</li>
+			<li>section:部分。</li>
+			<li>semester:学期，半学期。</li>
+			<li>stark-naked:一丝不挂的，赤裸的。</li>
+			<li>suite:套房。</li>
+			<li>supplemental:补充的。</li>
+			<li>thrilled:非常兴奋的</li>
+			<li>tough:困难的，艰难的，棘手的。</li>
+			<li>via：通过，凭借。</li>
+			<li>virtually:几乎，差不多的。</li>
+		</ol>
+		<ol>
+			<li>at the thought of:一想到。</li>
+			<li>be set on doibng something:
+				下定决心做某事。
+			</li>
+			<li><em>have no idea</em>:对。。。一无所知。</li>
+			<li><em>kick of:</em>开始</li>
+			<li><em>look to do something :</em>想方设法做某事。</li>
+			<li><em>make up:</em>形成，构成。</li>
+			<li><em>pass out:</em>昏睡，失去知觉。</li>
+			<li><em>pop up:</em>突然出现</li>
+			<li><em>set foot in:</em>踏入；进入</li>
+			
+		</ol>
+		
+		<p><a href="Unit2.html"target="blank">UNIT2</a></p>
+		<p><a href="main.html"target="blank">MENU</a></p>
+		<a href="#top" name="bottle">TOP</a>
+		</div>
+		address>Designed by yingang</address>
+    <address>if want get more information please add qq:1356931781</address>
+	</body>
+</html>
