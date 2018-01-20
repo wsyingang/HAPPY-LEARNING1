@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="new_file.css" type="text/css">
 	</head>
 	<body>
-		<div style="background-image: url(img/timg.jpg);height: 1920px;
+		<div style="background-image: url(timg.jpg);height: 1920px;
 			width: 1080px;">
 		<h1 style="color: red;">this is Unit 1</h1><hr />
 		<a href="#bottle" name="top">BOTTLE</a>
