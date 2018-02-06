@@ -29,6 +29,19 @@
 					font-size: 30px;
 					color: red;
 				}
+				#text1{
+					color: forestgreen;
+					font-size: 30px;
+					font-weight: bolder;
+				}
+				#text{
+					color: red;
+					font-size: 20px;
+					font-family: "楷体";
+					font-weight: bold;
+					background-color: yellow;
+					
+				}
 		</style>
 	</head>
 	<body>
@@ -70,7 +83,8 @@
 				<label for="sixth2"> <input type="radio" name="sixth" id="sixth2" />for </label>
 				<label for="sixth3"> <input type="radio" name="sixth" id="sixth3" />as</label>
 				<label for="sixth4"> <input type="radio" name="sixth" id="sixth4" />by</label><br />
-				<label> <input type="submit" value="提交"></label>
+				<label for="text" id="text1"> 作文区：<br/><textarea  rows="8" cols="60" id="text"> </textarea></label>
+				<label> <input type="submit" value="提交" onclick="alert('确定提交？')"></label>
             	</form>
             	
 		</div>
